@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Builder",
+  "description": "An AI-powered application that generates and refines website code based on user prompts. It features a live preview, code editor, and image integration capabilities to create and customize websites instantly.",
+  "requestFramePermissions": []
+}
